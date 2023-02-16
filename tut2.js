@@ -1,7 +1,7 @@
 // # Node.Js Modules
 // # FS Module -> File System Module
 
-// # Import Module
+// # Include Module
 const fs = require("fs");
 
 // # Reading from file
