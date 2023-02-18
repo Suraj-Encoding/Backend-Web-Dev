@@ -1,1 +1,6 @@
+# Useless waste
 *.DS_Store
+# Dependencies
+**node_modules
+# .Json
+*package-lock.json
